@@ -1,0 +1,357 @@
+{
+  "metadata": {
+    "version": "2.0",
+    "last_updated": "2025-12-09",
+    "total_entries": 52,
+    "edition": "D&D 5e / 5.2024",
+    "setting": "Forgotten Realms",
+    "update_system": "Progressivo - Aggiungi nuove voci e il bot le userà automaticamente",
+    "instructions": "Aggiungi nuove voci in fondo alla lista. Il bot traccia automaticamente cosa invia e non ripete."
+  },
+  "update_guide": {
+    "come_aggiungere": "Copia il template JSON qui sotto e incolla in fondo alla lista 'lore_entries' PRIMA della chiusura ']'",
+    "template": {
+      "id": "XXX (numero progressivo)",
+      "title": "Titolo dell'argomento",
+      "category": "Cosmologia|Divinità|Razze|Mostri|Piani|Magia|Luoghi|Storia|Organizzazioni|Artefatti",
+      "content": "Testo 10+ righe, concreto e chiaro",
+      "image_url": null,
+      "related_id": null,
+      "spoiler_campaign": false,
+      "date_added": "YYYY-MM-DD"
+    },
+    "note": "Se `spoiler_campaign: true`, il bot salterà quel messaggio. Usa per avventure ufficiali (Lost Mine, Curse of Strahd, etc.)"
+  },
+  "lore_entries": [
+    {
+      "id": 1,
+      "title": "La Forgia dei Dei Primordiali",
+      "category": "Cosmologia",
+      "content": "All'inizio dei tempi, i Dio Primordiali e gli Antichi Dei modellarono il Multiverso e i Piani di Esistenza. Nel piano dei Reami Dimenticati, gli Dei presiedevano il corso del mondo, creando razze e civiltà. La Giornata dell'Incatenamento rappresentò il momento in cui i Dei furono vincolati dai Tabu Primordiali, impedendo loro di operare direttamente nel mondo materiale. Questa restrizione divenne fondamentale per preservare il libero arbitrio delle creature mortali e creare lo spazio per l'eroismo. I Costrutti Primordiali, come i Giganti Primordiali, furono i primi abitanti del piano materiale. Essi possedevano poteri immensi e modellarono la terra stessa, ma con l'ascesa degli Dei, il loro potere diminuì e gradualmente scomparvero dal regno principale.",
+      "image_url": null,
+      "related_id": 2,
+      "spoiler_campaign": false,
+      "date_added": "2025-12-03"
+    },
+    {
+      "id": 2,
+      "title": "I Giganti Primordiali e la Creazione del Mondo",
+      "category": "Storia",
+      "content": "I Giganti Primordiali, creati dai Dio Primordiali nella prima era, furono i maestri costruttori del mondo. Le loro imprese mitologiche includono la creazione di montagne, la formazione dei mari e la fondazione delle prime civiltà. Secondo le leggende, il Gigante dell'Ordine Annam ebbe figli divini: Surtur (fuoco), Thrym (gelo), Ogrémoch (terra) e Olhydra (acqua). Questi divennero gli antenati di tutte le razze di giganti che ancora oggi camminano nei Reami. La Convocazione dei Giganti, evento leggendario del Primo Tempo, vide riunirsi i Giganti Primordiali in conclave per stabilire l'ordine cosmico. Tuttavia, la loro supremazia non durò eternamente. L'ascesa del dio Helm e la creazione dei Tabu Primordiali segnarono il declino della loro era, trasferendo il potere supremo agli Dei e alle loro scelte.",
+      "image_url": null,
+      "related_id": 3,
+      "spoiler_campaign": false,
+      "date_added": "2025-12-03"
+    },
+    {
+      "id": 3,
+      "title": "Le Razze di Giganti: Ordine e Caos",
+      "category": "Razze",
+      "content": "Dal caos primordiale nacquero le razze di giganti, ciascuna con una natura e un allineamento distinti:\n\n**Giganti del Fuoco (Fire Giants)**: Abitanti delle caverne vulcaniche e dei piani infuocati, caratterizzati da forza bruta e arroganza. Spesso malvagi, servono Surtur il Cieco nel suo obiettivo di portare il Crepacieli dei Giganti.\n\n**Giganti del Gelo (Frost Giants)**: Signori del nord, amanti del combattimento e della conquista. La loro società è incentrata su un rigido codice d'onore guerriero e la venerazione di Thrym, il Re del Gelo.\n\n**Giganti della Terra (Stone Giants)**: I più meditativi e civilizzati, spesso caotici neutrali. Possiedono una forte connessione con la natura e la pietra, e tendono a evitare il conflitto diretto preferendo l'armonia con l'ambiente.\n\n**Giganti dell'Aria (Cloud Giants)**: I più nobili e civilizzati dei loro simili, spesso neutri o legalmente buoni. Costruiscono maestosi castelli nelle nuvole e sono apprezzati per la loro saggezza e bellezza.",
+      "image_url": null,
+      "related_id": null,
+      "spoiler_campaign": false,
+      "date_added": "2025-12-03"
+    },
+    {
+      "id": 4,
+      "title": "Il Pantheon dei Dei Maggiori",
+      "category": "Divinità",
+      "content": "Il Pantheon dei Reami Dimenticati comprende numerose divinità, ciascuna con un dominio specifico e fedeli devoti:\n\n**Ao, il Signore Nascosto**: La divinità suprema del multiverso, quasi totalmente enigmatica. Ao non accetta adoratori e raramente interviene, ma occasionalmente modifica il corso della storia.\n\n**Helm, la Mano della Giustizia**: Dio della protezione, dell'ordine e del dovere. Raffigurato come un guerriero inesorabile con gli occhi sempre aperti, rappresenta la vigilanza eterna.\n\n**Bane, il Signore della Tirannia**: Dio del conflitto, del dominio e della tirannia. Malvagio per essenza, cerca di diffondere caos e oppressione nel mondo.\n\n**Mystra, la Dea della Magia**: Governatrice della magia arcana e del tessuto della realtà. La sua influenza permea ogni incantesimo lanciato nei Reami Dimenticati.",
+      "image_url": null,
+      "related_id": 5,
+      "spoiler_campaign": false,
+      "date_added": "2025-12-03"
+    },
+    {
+      "id": 5,
+      "title": "Il Conflitto Cosmico: Selûne vs Shar",
+      "category": "Divinità",
+      "content": "Uno dei conflitti più importanti del pantheon oppone Selûne, dea della luna e della luce, a Shar, dea dell'oscurità e dei segreti. Questo conflitto è antico quanto lo stesso universo.\n\n**Selûne** rappresenta la guida, la visione e l'illuminazione. I suoi seguaci sono spesso paladini, chierici e persone che cercano verità e giustizia. La luna piena è il simbolo di Selûne, e il suo potere massimo si manifesta durante i pleniluni.\n\n**Shar** incarna l'ombra, il segreto e il silenzio. I suoi seguaci comprendono stregoni, assassini e coloro che prosperano nell'inganno. L'eclissi lunare segna il momento in cui Shar guadagna supremazia temporanea.\n\nQuesto duello eterno non ha mai raggiunto una conclusione definitiva. Entrambe le divinità accettano che l'esistenza dell'altra è necessaria per mantenere l'equilibrio cosmico: senza luce non ci sarebbe ombra, e senza ombra, la luce perderebbe significato.",
+      "image_url": null,
+      "related_id": null,
+      "spoiler_campaign": false,
+      "date_added": "2025-12-03"
+    },
+    {
+      "id": 6,
+      "title": "I Drow: Gli Elfi Oscuri dei Sotterranei",
+      "category": "Razze",
+      "content": "I Drow, noti anche come Elfi Oscuri, sono discendenti di antichi elfi che venerarono Lolth, la Regina dei Ragni. Secondo la tradizione, gli elfi che adoravano Lolth furono esiliati negli Underdark (le caverne sotterranee) come punizione per la loro arroganza.\n\nNella società Drow vige un rigido matriarcato: le femmine sono superiori ai maschi e la caccia è considerata la massima virtù. Le loro città, come Menzoberranzan, sono meraviglie di magia e architettura costruite su enormi stalattiti.\n\n**Lolth, la Regina dei Ragni**: Dea della ragnatela, della tirannia e della sfida. Lolth si diverte nel fomentare conflitti tra le sue adoratrici, premiando coloro che mostrano astuzia e crudeltà. La sua influenza permea ogni aspetto della società Drow, dalle guerre di casa alle intriganti politiche.\n\nI Drow possono essere avversari terribili in battaglia, armati di magia nera e scudi incantati. Tuttavia, alcuni Drow si ribellano al culto di Lolth e fuggono ai livelli superiori del mondo, cercando redenzione.",
+      "image_url": null,
+      "related_id": 7,
+      "spoiler_campaign": false,
+      "date_added": "2025-12-03"
+    },
+    {
+      "id": 7,
+      "title": "Menzoberranzan: La Città dei Ragni",
+      "category": "Luoghi",
+      "content": "Menzoberranzan è la metropoli Drow più grande e famosa degli Underdark, costruita su enormi stalattiti che pendono dal soffitto di una gigantesca caverna. La città è interamente illuminata da magiche sfere luminescenti in tonalità blu e viola, creando un'atmosfera affascinante e minacciosa.\n\n**La Struttura di Menzoberranzan** è governata dalle Case Maggiori, potenti famiglie Drow che comandano vasti territori e risorse. Ogni Casa ha un proprio stemma, colori e una Torre-Palazzo dove risiede la matriarca. Le intrighe tra le Case sono costanti, e i conflitti scoppiati sfociano regolarmente in sanguinose battaglie dalle strade della città.\n\n**Il Mercato Grigio** è il cuore commerciale di Menzoberranzan, dove si comprano e vendono schiavi, incantesimi e artefatti rari. I Drow lo considerano un luogo neutrale dove persino nemici mortali possono negoziare senza timore di attacchi diretti.\n\nLa città è circondata da un'aura di pericolo: i Drow difendono fieramente la loro casa dai predatori degli Underdark e da qualsiasi forastiero che osi cercare di scoprire i suoi segreti.",
+      "image_url": null,
+      "related_id": null,
+      "spoiler_campaign": false,
+      "date_added": "2025-12-03"
+    },
+    {
+      "id": 8,
+      "title": "Gli Umani: La Razza del Potenziale Illimitato",
+      "category": "Razze",
+      "content": "Gli Umani nei Reami Dimenticati rappresentano la razza del potenziale infinito e del cambiamento. Con una vita naturale più breve rispetto alle altre razze (raramente superano i 100 anni), gli Umani compensano con ambizione, adattabilità e capacità di innovazione.\n\n**Caratteristiche Culturali**: Gli Umani hanno fondato alcuni dei più grandi regni dei Reami, inclusi Cormyr, Waterdeep e il Damara. Le loro società sono diverse e spesso complesse, riflettendo una vasta gamma di valori e sistemi di governo.\n\n**Varietà Regionale**: \n- Gli **Umani del Dalesland** sono guerrieri e bardi famosi per la loro libertà\n- Gli **Umani di Cormyr** sono noti per la loro lealtà e il loro onore\n- Gli **Umani del Calimshan** sono mercanti astuti e politici raffinati\n- Gli **Umani di Zhentil Keep** sono spesso seguaci dell'Organizzazione Zhentarim\n\nQuesto adattamento culturale rende gli Umani una forza incalcolabile nel panorama dei Reami. La loro brevità di vita li spinge a realizzare molto in poco tempo, e questo senso di urgenza li rende spesso eroi, conquistatori, santi o mascalzoni.",
+      "image_url": null,
+      "related_id": 9,
+      "spoiler_campaign": false,
+      "date_added": "2025-12-03"
+    },
+    {
+      "id": 9,
+      "title": "Waterdeep: La Città dei Splendori",
+      "category": "Luoghi",
+      "content": "Waterdeep è la più grande e influente città dei Reami Dimenticati, costruita attorno a una baia naturale perfetta sulla Costa della Spada. Conosciuta come la \"Città dei Splendori\", Waterdeep è un melting pot di commercio, magia e politica.\n\n**Il Governo**: Waterdeep è governata dal misterioso Senato Aperto, guidato dal \"Signore Aperto\" - un ruolo che è attualmente ricoperto da Laeral Silverhand (5e era contemporanea). Il governo rimane uno dei più stabili e illuminati dei Reami.\n\n**Quartieri Notevoli**:\n- **Castello di Waterdeep**: Residenza del Signore Aperto e centro del potere politico\n- **La Casa dei Mille Volti**: Sede della gilda dei mercanti e dei commercianti\n- **La Biblioteca Grigia**: Ricettacolo di conoscenza e magia, amministrata da maghi famosi\n- **Il Mercato del Porto**: Centro del commercio dove vengono scambiate merci da tutto il mondo\n\n**Importanza Strategica**: Waterdeep controlla il commercio sulla Costa della Spada ed è una fortezza contro il caos dei selvaggi. La città accoglie avventurieri, maghi e eroi provenienti da ogni angolo dei Reami.",
+      "image_url": null,
+      "related_id": null,
+      "spoiler_campaign": false,
+      "date_added": "2025-12-03"
+    },
+    {
+      "id": 10,
+      "title": "I Dracoliches: Immortalità Attraverso la Magia Nera",
+      "category": "Mostri",
+      "content": "Un Dracolich è la forma non-morta di un antico drago, creata quando un drago utilizza la magia nera (solitamente nigromanza e rituali daemoniaci) per preservare la propria essenza dopo la morte del corpo. Il processo è abominevole e raro, richiedendo immensi sacrifici e conoscenza magica proibita.\n\n**Creazione di un Dracolich**:\n1. Un drago antico (tipicamente rosso, blu o nero) muore in battaglia o per vecchiaia\n2. Mediante rituale oscuro, l'essenza del drago viene incatenata a una Phylactery Draconiana (un artefatto contenitore specifico)\n3. Il corpo del drago ritorna alla vita come non-morto, potenziato dalla magia nera\n\n**Poteri di un Dracolich**: \n- Rigenerazione magica e immunità a molti danni\n- Soffio ancora più devastante del drago vivente originale\n- Capacità di controllare schiere di non-morti\n- Intelligenza conservata (a volte amplificata dalla follia)\n\n**Vulnerabilità**: Il Dracolich rimane legato alla sua Phylactery. Se distrutta, il drago non-morto è condannato alla vera morte. Questo rappresenta l'unica vera speranza di eliminare definitivamente una simile minaccia.",
+      "image_url": null,
+      "related_id": 11,
+      "spoiler_campaign": false,
+      "date_added": "2025-12-03"
+    },
+    {
+      "id": 11,
+      "title": "I Draghi Antichi: Supremi Signori del Cielo",
+      "category": "Mostri",
+      "content": "I draghi antichi sono creature leggendarie e quasi immortali, rappresentanti il picco della potenza non umana. Nel pantheon dei draghi, gli antichi occupano lo stesso rango dei semidei, con intelligenza pari o superiore agli umani, e poteri che superano di gran lunga qualsiasi mortale.\n\n**Tipi di Draghi Antichi** (secondo allineamento):\n\n**Draghi Rossi Antichi** (Caotici Malvagi): Incarnano l'arroganza e la malvagità pura. Un drago rosso antico ritiene che tutto il mondo sia suo per diritto divino. Il fuoco è la loro forza principale.\n\n**Draghi Blu Antichi** (Legali Malvagi): Costruttori meticolosi e dominatori territoriali. Hanno una intelligenza fredda e calcolatrice. Controllano l'elettricità e creano complessi piani di conquista.\n\n**Draghi Dorati Antichi** (Legalmente Buoni): Ultimi guardiani della bontà nell'era moderna. Sono sapienti, nobili e spesso abbandonano la loro immortalità per proteggere l'umanità.\n\n**Draghi Verdi Antichi** (Caotici Malvagi): Manipolatori e ingannatori. Preferiscono la seduzione e l'intrigo alla forza bruta.\n\nUn drago antico è una minaccia globale, capace di scatenare devastazione a livello catastrofale e governi interi devono riunirsi per fronteggiare anche uno solo di loro.",
+      "image_url": null,
+      "related_id": null,
+      "spoiler_campaign": false,
+      "date_added": "2025-12-03"
+    },
+    {
+      "id": 12,
+      "title": "L'Underdark: L'Abisso Sotterraneo",
+      "category": "Luoghi",
+      "content": "L'Underdark è il vasto sistema di caverne sotterranee che si estende sotto l'intero continente dei Reami Dimenticati, e in parte oltre. È un mondo completamente sotterraneo con ecosistemi unici, città antiche e pericoli indicibili.\n\n**Caratteristiche Principali**:\n- **Assenza di Sole**: L'Underdark non ha sole naturale; la luce proviene da funghi bioluminescenti, magia e creature luminescenti\n- **Spazi Immensi**: Alcuni tunnel sono così grandi da contenere intere città, mentre altri sono stretti e claustrofobici\n- **Piani Multipli**: L'Underdark si estende su più livelli, da caverne poco profonde a abissi quasi insondabili\n\n**Civiltà dell'Underdark**:\n- **Drow** (Elfi Oscuri): La civiltà dominante, con città come Menzoberranzan\n- **Duergar** (Nani Oscuri): Antichi nemici dei Nani normali, mercantilisti e ostili\n- **Illithid** (Flagelli Mentali): Aberrazioni intelligenti che controllano vasti territori\n- **Beholder**: Creature strane con poteri magici, spesso solitarie e territoriali\n- **Myrconidi**: Umanoidi fungini infestanti, colonie di creature connesse mentalmente\n\nL'Underdark è sia una miniera di tesori che un cimitero di ossa di avventurieri incauti. Chi lo esplora deve essere preparato a scoprire meraviglie e orrori oltre la comprensione umana.",
+      "image_url": null,
+      "related_id": 13,
+      "spoiler_campaign": false,
+      "date_added": "2025-12-03"
+    },
+    {
+      "id": 13,
+      "title": "Gli Illithid: I Flagelli Mentali",
+      "category": "Mostri",
+      "content": "Gli Illithid, conosciuti come Flagelli Mentali, sono una razza di aberrazioni orribili originarie del Piano Astrale. Possiedono un'intelligenza superiore, potenza psichica devastante e il disgusting appetito di divorare cervelli.\n\n**Caratteristiche Fisiche**:\n- Corpo umanoide alto 4-5 piedi\n- Testa a forma di polpo con 4 tentacoli orali intorno alla bocca\n- Pelle grigia o blu con texture aliena\n- Occhi grandi e incandescenti di nero totale\n\n**Poteri Psichici**:\n- **Blast Psichico**: Un'ondata psichica devastante che causa danni mentali\n- **Controllo Mentale**: Possono dominare menti deboli e controllare umanoidi\n- **Telepatia**: Comunicano telepaticamente su distanze enormi\n- **Estrazione Mentale**: Possono estrarre frammenti di memoria e conoscenza\n\n**La Brattain**: Gli Illithid vivono in città sotterranee guidate da una Mente-Alveare suprema, che controlla telepaticamente la civiltà Illithid. Resistere al controllo della Mente-Alveare richiede forza di volontà eccezionale.\n\n**Worst Nightmare**: Un Illithid può catturare un umanoide e trasformarlo in uno Thrall Illithid, un servo mentale completamente controllato. Il cervello del thrall è stato completamente sussunto dalla volontà dell'Illithid.",
+      "image_url": null,
+      "related_id": null,
+      "spoiler_campaign": false,
+      "date_added": "2025-12-03"
+    },
+    {
+      "id": 14,
+      "title": "Il Ciclo della Mortalità: Vita, Morte e Aldilà",
+      "category": "Cosmologia",
+      "content": "Nei Reami Dimenticati, la morte non è un evento definitivo ma piuttosto una transizione verso l'aldilà, sebbene il percorso vari a seconda del dio adorato e della vita vissuta.\n\n**Per i Giusti**: I fedeli della divinità seguono un percorso verso il Piano Paradisiaco del loro dio, dove godono dell'eternità accanto al loro patrono.\n\n**Per i Peccatori**: Quelli che hanno offeso le divinità possono finire nei Piani Punitivi, condannati a sofferenza eterna.\n\n**Per i Neutrali**: I morti senza fede specifica vagano negli inerti Piani Neutrali, in uno stato di semi-consapevolezza.\n\n**Resurrezione Magica**: Un individuo morto può essere riportato in vita mediante magia potente (Resurrezione, Vero Resuscitamento), anche se la magia più potente è necessaria dopo molto tempo.\n\n**Resurrezione Divina**: A volte, un dio resuscita direttamente un mortale favorito, generalmente per una missione importante.\n\n**Non-Mortalità**: Alcuni tentano di evitare il ciclo della morte diventando non-morti (Lich, Vampire, Zombie), ma questa viene generalmente considerata un'abominazione e una violazione dell'ordine naturale.",
+      "image_url": null,
+      "related_id": null,
+      "spoiler_campaign": false,
+      "date_added": "2025-12-03"
+    },
+    {
+      "id": 15,
+      "title": "I Lich: La Ricerca Ossessiva dell'Immortalità",
+      "category": "Mostri",
+      "content": "Un Lich è un non-morto estremamente potente creato quando un mago, solitamente uno stregone, utilizza la nigromanza per incatenare la sua anima a una Phylactery (Talismano dell'Anima). Il processo trasforma il mago in un'abominazione immortale ma con il costo della propria umanità.\n\n**Creazione di un Lich**:\n1. Un potente mago muore (generalmente per suicidio rituale)\n2. Il corpo viene sepolto con una Phylactery incantata contenente frammenti della sua anima\n3. L'essenza del mago ritorna come non-morto, manifestandosi come una figura spettrale coperta da tessuti tarlati\n\n**Poteri di un Lich**:\n- Immunità ai danni normali (solo la magia può ferire un Lich)\n- Rigenerazione magica del corpo\n- Controllo di schiere di non-morti servili\n- Capacità di lanciare qualsiasi incantesimo conosciuto in vita\n- Phylactery insita che lo rende virtualmente immortale\n\n**Debolezza Critica**: Se la Phylactery viene distrutta, il Lich è permanentemente sconfitto. Questo è l'unico vero modo di eliminarli, il che spiega perché i Lich nascondono le loro Phylactery in locations quasi impossibili da trovare.",
+      "image_url": null,
+      "related_id": null,
+      "spoiler_campaign": false,
+      "date_added": "2025-12-03"
+    },
+    {
+      "id": 16,
+      "title": "Gli Elfi: Figli Eterni della Magia",
+      "category": "Razze",
+      "content": "Gli Elfi nei Reami Dimenticati sono una razza antica caratterizzata da longevità straordinaria (vivono circa 700-750 anni), grazia naturale e una forte connessione alla magia.\n\n**Sottoraze Maggiori**:\n\n**Elfi Selvatici (Wood Elves)**: Abitanti delle foreste profonde, esperti di magia della natura e lotta. Possiedono una struttura sociale tribale e una profonda fedeltà al loro popolo.\n\n**Elfi Alti (High Elves)**: La più intellettuale e magicamente sensibile delle sottoraze. Costruttori di torri-magiche e conservatori del sapere antico.\n\n**Elfi Scuri (Drow)**: Discendenti degli Elfi che tradirono i loro principi. Ora abitano l'Underdark e servono la regina dei ragni Lolth.\n\n**Elfi Acquatici (Sea Elves)**: Abitanti degli oceani, abili navigatori e guerrieri marini.\n\n**Caratteristiche Comuni**: Gli Elfi possiedono una resistenza naturale alla magia di incantesimo, riflessi straordinari e una percezione acuta. La loro longevità ha dato loro il tempo di sviluppare una saggezza profonda, sebbene alcuni soffrano di apatia rispetto alle questioni dei mortali.\n\nGli Elfi rimangono una razza fondamentale nei Reami, spesso visti come portatori di una saggezza perduta e di una magia primordiale.",
+      "image_url": null,
+      "related_id": null,
+      "spoiler_campaign": false,
+      "date_added": "2025-12-03"
+    },
+    {
+      "id": 17,
+      "title": "I Nani: Maestri della Pietra e del Metallo",
+      "category": "Razze",
+      "content": "I Nani sono una razza robusta e longeva, caratterizzati da bassa statura (3.5-4.5 piedi), straordinaria forza e maestria artigianale senza pari.\n\n**Caratteristiche Culturali**:\n- **Clan e Lignaggio**: La società nana è organizzata per clan, ognuno con un lignaggio antico e un'eredità di fama o infamia\n- **Magia della Forgia**: I Nani sono maestri nella creazione di artefatti magici, specialmente armi e armature\n- **Resistenza**: I Nani possiedono una resistenza naturale ai veleni e agli effetti magici\n- **Visione al Buio**: Possono vedere perfettamente nell'oscurità totale, un adattamento alle loro dimore sotterranee\n\n**Sottoraze**:\n\n**Nani di Montagna**: Edificatori di regni nelle profonde montagne, guerrieri onorevolissimi e leali.\n\n**Nani di Collina**: Più simili agli umani, commercianti abili e spesso più cosmopoliti.\n\n**Duergar (Nani Oscuri)**: Abitanti dell'Underdark, corrotti dal malevolo e spesso schiavisti e mercantilisti senza scrupoli.\n\nLa ricchezza di un nano è misurata non in oro, ma nella maestria delle sue creazioni e nella reputazione del suo clan. Uno scure nana ben forgiata è un'eredità generazionale.",
+      "image_url": null,
+      "related_id": null,
+      "spoiler_campaign": false,
+      "date_added": "2025-12-03"
+    },
+    {
+      "id": 18,
+      "title": "Le Scuole di Magia nel D&D 5e",
+      "category": "Magia",
+      "content": "La magia nel D&D 5e è divisa in 8 scuole distinte, ognuna con principi e applicazioni unici:\n\n**Abiurazione**: La magia della protezione, sigilli e disincantamenti. Gli abiuratori creano campi protettivi e scudi magici.\n\n**Divinazione**: La magia della conoscenza, vista e preveggenza. I divinatori scoprono segreti nascosti e vedono il futuro.\n\n**Invocazione**: La magia dell'energia diretta e del danno. Gli invoatori lanciano fulmine, fuoco e magie offensive devastanti.\n\n**Illusione**: La magia dell'inganno, dell'apparenza e della percezione. Gli illusionisti manipolano i sensi dei loro nemici.\n\n**Necromanzia**: La magia della morte, dell'energia vitale e dei non-morti. I negromanti controllano schiere di zombie e drenano la vita dai loro nemici.\n\n**Trasmutazione**: La magia della trasformazione e del cambiamento. I trasmutatori alterano la materia stessa.\n\n**Evocazione**: La magia della creazione e della manifestazione. Gli evocatori creano oggetti magici dal nulla.\n\n**Ammaliamento**: La magia del controllo mentale e dell'influenza. Gli ammaliatori controllano le menti e manipolano le emozioni.\n\nOgni scuola offre vantaggi e svantaggi unici, e gli incantesimi sono classificati secondo la loro scuola di appartenenza.",
+      "image_url": null,
+      "related_id": null,
+      "spoiler_campaign": false,
+      "date_added": "2025-12-03"
+    },
+    {
+      "id": 19,
+      "title": "I Piani di Esistenza: Oltre il Materiale",
+      "category": "Cosmologia",
+      "content": "Il Multiverso dei Reami Dimenticati comprende diversi Piani di Esistenza, ciascuno con le proprie leggi fisiche, abitanti e caratteristiche uniche.\n\n**Piano Materiale Primario**: Il piano dove si svolgono le avventure, conosciuto come i Reami Dimenticati.\n\n**Piani Primordiali dell'Energia**: 4 piani rappresentanti gli elementi (Fuoco, Terra, Aria, Acqua) e 2 piani di energia positiva e negativa.\n\n**Shadowfell (Piano dell'Ombra)**: Un riflesso oscuro e distorto del Piano Materiale, teatro di morte e oscurità.\n\n**Feywild (Piano Fatato)**: Un riflesso magico e bello del Piano Materiale, dimora delle fate e della magia primordiale.\n\n**Piano Astrale**: Dimora degli dei e delle anime, un luogo eterico dove i pensieri diventano realtà.\n\n**Outer Planes (Piani Esterni)**: Le dimore degli dei e dei semidei, compresi i Cieli Superiori (buoni), i Piani Inferiori (malvagi) e i Piani Neutrali.\n\n**Piano Ethereal**: Un piano fantasmagorico di mezzotoni, usato da fantasmi e creature eteree.\n\nLa capacità di viaggiare tra i Piani richiede magia potente e conoscenza profonda, ed è considerata uno dei traguardi massimi di un mago.",
+      "image_url": null,
+      "related_id": 20,
+      "spoiler_campaign": false,
+      "date_added": "2025-12-03"
+    },
+    {
+      "id": 20,
+      "title": "Shadowfell: Il Giardino della Morte",
+      "category": "Luoghi",
+      "content": "Shadowfell è un piano parallelo del Piano Materiale, ma è un riflesso oscuro, corrotto e malato. Dove il Piano Materiale brulica di vita, Shadowfell è pieno di morte, decadenza e orrore.\n\n**Caratteristiche Fisiche**:\n- **Cielo Grigio-Nero**: Il sole di Shadowfell è coperto da nubi permanenti e la luce è fioca\n- **Decadenza**: Le costruzioni sono dilapidate, le foreste sono morte e il terreno è spesso coperto da cenere\n- **Abitanti Oscuri**: Zombie, spettri, ombre e altre creature non-morte abitano liberamente\n\n**Il Nemico Supremo**: Un'entità conosciuta come la \"Signora Dorata\" (in 5e è talvolta collegata al culto Shadowfell) o il Padre della Morte governa Shadowfell, anche se la natura esatta del suo controllo rimane misteriosa.\n\n**Perché Entrare in Shadowfell?**: I pochi avventurieri che osano entrare in Shadowfell lo fanno per cercare artefatti maledetti, fuggire da nemici potenti, o combattere le forze della morte stessa. È un luogo pericoloso dove la morte non è una conclusione, ma un inizio.\n\nShadowfell rappresenta tutto ciò che il Piano Materiale non è: l'opposto della vita, della speranza e della bellezza.",
+      "image_url": null,
+      "related_id": null,
+      "spoiler_campaign": false,
+      "date_added": "2025-12-03"
+    },
+    {
+      "id": 21,
+      "title": "Feywild: Il Giardino della Magia Primordiale",
+      "category": "Piani",
+      "content": "Feywild, noto anche come Piano Fatato, è un riflesso magico, bello e meraviglioso del Piano Materiale. Dove Shadowfell rappresenta la morte, Feywild rappresenta la vita, la magia e la fantasia in forma pura.\n\n**Caratteristiche Principali**:\n- **Bellezza Sconfinata**: Paesaggi magici, foreste incantate, mari di cristallo e cieli stellati permanenti\n- **Tempo Distorto**: Il tempo scorre in modo diverso; un giorno su Feywild potrebbe equivalere a un anno nel Piano Materiale\n- **Abitanti Fatati**: Elfi selvaggi, pixie, dryadi, unicorni e altre creature magiche vivono libere\n- **Magia Selvaggia**: La magia è onnipresente e spesso imprevedibile, creando fenomeni strani e meravigliosi\n\n**Le Corti Fatate**: Feywild è governato da potenti signori fatati, spesso in conflitto tra loro. La Corte Solare e la Corte Lunare sono le due principali potenze, eternamente rivali.\n\n**Pericoli Nascosti**: Nonostante la sua bellezza, Feywild nasconde pericoli terribili. Gli accordi fatati sono vincolanti e pericolosi, e le creature fatate operano secondo logiche completamente diverse da quelle umane.",
+      "image_url": null,
+      "related_id": null,
+      "spoiler_campaign": false,
+      "date_added": "2025-12-09"
+    },
+    {
+      "id": 22,
+      "title": "Tempus: Il Dio della Guerra e del Conflitto",
+      "category": "Divinità",
+      "content": "Tempus è il dio neutrale della guerra, del conflitto e della battaglia nei Reami Dimenticati. A differenza di altre divinità di guerra che favoreggiano un lato specifico, Tempus rimane imparziale, promuovendo il conflitto stesso come via di gloria e prova di forza.\n\n**Dogma di Tempus**:\n- La guerra è la massima espressione di onore e gloria\n- Coloro che muoiono in battaglia onorevole entrano nel suo paradiso\n- La vittoria vanifica all'ennesima potenza la sconfitta in battaglia\n- Nessun lato è favorito da Tempus, solo coloro che combattono con onore\n\n**Culto di Tempus**: I seguaci di Tempus sono spesso guerrieri, mercenari e samurai. I suoi chierici benedicono gli eserciti in battaglia e curano i feriti di guerra. I templari di Tempus sono guerrieri d'elite dedicati alla preservazione del conflitto onorifico.\n\n**Conflitto con Altre Divinità**: Tempus ha una complessa relazione con Torm (il dio dell'onore), Ares-Verenestra (la dea della guerra tattica) e Bane (il dio della tirannia). Nonostante le rivalità, Tempus rimane neutrale e supporta coloro che combattono con principi guerrieri veri.",
+      "image_url": null,
+      "related_id": null,
+      "spoiler_campaign": false,
+      "date_added": "2025-12-09"
+    },
+    {
+      "id": 23,
+      "title": "I Zhentarim: L'Organizzazione Nera",
+      "category": "Organizzazioni",
+      "content": "I Zhentarim sono un'organizzazione secreta e potente che opera negli Underdark e nelle città dei Reami Dimenticati, con una struttura gerarchica rigida e obiettivi di conquista e dominio.\n\n**Storia e Origine**: Fondati da Fzoul Chembryl e altri potenti maghi neri, gli Zhentarim inizialmente servivano il dio Bane. Dopo la morte di Bane e la sua resurrezione, l'organizzazione si è evoluta in una struttura più laica focalizzata su potere politico e economico.\n\n**Struttura Gerarchica**:\n- **Il Consiglio Supremo**: I leader supremi dell'organizzazione\n- **Maghi Rossi**: Potenti maghi al servizio degli Zhentarim\n- **Assassini**: Specialisti eliminazione che eseguono esecuzioni segrete\n- **Spie e Agenti**: Reti di informatori dislocate in tutte le principali città\n\n**Attività Criminali**: Gli Zhentarim sono coinvolti in traffico di schiavi, estorsione, corruzione politica e controllo di gilde criminali. Il loro obiettivo finale è ottenere il controllo totale dei Reami Dimenticati.\n\n**Il Capo Supremo Attuale**: Vari leader controllano diverse sezioni dell'organizzazione. Nel periodo 5e, l'organizzazione rimane potente ma frammentata in più cellule autonome con diversi gradi di malvagità.",
+      "image_url": null,
+      "related_id": null,
+      "spoiler_campaign": false,
+      "date_added": "2025-12-09"
+    },
+    {
+      "id": 24,
+      "title": "Mystra: La Dea della Magia e del Tessuto della Realtà",
+      "category": "Divinità",
+      "content": "Mystra è la dea della magia arcana, del tessuto magico della realtà e del flusso di potenza magica nei Reami Dimenticati. La sua influenza permea ogni incantesimo lanciato e ogni artefatto magico creato.\n\n**Poteri di Mystra**: \n- Controllo assoluto sul flusso magico tra i piani\n- Capacità di amplificare o bloccare la magia\n- Connessione telepatica con tutti i maghi che ricercano la verità magica\n- Immortalità garantita finché la magia esiste\n\n**Morte e Resurrezione di Mystra**: Nel timeline dei Reami Dimenticati, Mystra fu uccisa da Cyric (il Dio della Morte) e dalla Spellplague ne conseguì. La sua morte causò il crollo parziale della struttura magica stessa. Tuttavia, Mystra è stata successivamente resuscitata, restaurando l'ordine magico.\n\n**Culto di Mystra**: I seguaci di Mystra includono maghi, stregoni e coloro che cercano la conoscenza magica. I suoi chierici sono custodi del sapere magico e protettori delle torri dei maghi. Il motto del culto è \"La magia è la Via\".\n\n**Conflitto con Shar**: Shar, dea dell'oscurità e dei segreti, è l'eterna nemica di Mystra. La loro guerra cosmica riflette il conflitto tra luce e ombra, conoscenza e mistero.",
+      "image_url": null,
+      "related_id": null,
+      "spoiler_campaign": false,
+      "date_added": "2025-12-09"
+    },
+    {
+      "id": 25,
+      "title": "I Vampire: Maledetti Immortali della Notte",
+      "category": "Mostri",
+      "content": "I Vampire nei Reami Dimenticati sono creature maledette create da potenti rituali di nigromanza o dal morso di altri vampire. Sono immortali, potenti e soggetti a vincoli sovrumani che li legano alla notte e al bisogno di sangue.\n\n**Creazione di un Vampire**:\n1. Una potente creatura o mago muore e viene risorto da rituali di nigromanza\n2. Oppure un umanoide è morso da un vampire e trasformato progressivamente\n3. La trasformazione è dolorosa e può richiedere giorni o settimane per completarsi\n\n**Poteri Vampirici**:\n- Rigenerazione rapida e quasi-immortalità\n- Trasformazione in pipistrello, nebbia o lupo mannaro\n- Controllo del tempo e del meteo in misura limitata\n- Carisma sovrumano (ipnotismo)\n- Capacità di creare vampire servi (spawn)\n\n**Debolezze Critiche**:\n- **Sole**: La luce solare diurna li brucia e li uccide\n- **Acqua Corrente**: Non possono attraversare l'acqua corrente (fiumi, torrenti)\n- **Ostia e Aglio**: Il simbolismo religioso causa dolore\n- **Picca nel Cuore**: L'unico modo definitivo per uccidere un vampire\n\n**Vita da Vampire**: I vampire vivono in castelli isolati, nascosti da occhi mortali. Molti diventano signori del male locali, dominando villaggi e controllando le forze della notte.",
+      "image_url": null,
+      "related_id": null,
+      "spoiler_campaign": false,
+      "date_added": "2025-12-09"
+    },
+    {
+      "id": 26,
+      "title": "Candlekeep: Il Tempio del Sapere",
+      "category": "Luoghi",
+      "content": "Candlekeep è una fortezza-biblioteca costruita su una penisola rocciosa sulla Costa della Spada, dedicata alla conservazione e alla condivisione del sapere. È uno dei luoghi più importanti dei Reami per coloro che cercano conoscenza antica e proibita.\n\n**Struttura di Candlekeep**:\n- **La Torre Principale**: Una torre massiccia che si erge per centinaia di piedi, contenente migliaia di volumi\n- **Le Camere di Ricerca**: Stanze dedicate a specifici campi di studio (magia, storia, biologia, etc.)\n- **L'Ospedale Magico**: Dove vengono curate malattie rare e ferite magiche\n- **Gli Alloggi dei Visitanti**: Dove i ricercatori possono riposare durante la loro ricerca\n\n**Regole di Candlekeep**:\n- Tutti sono benvenuti indipendentemente dall'allineamento (purché non causino danni)\n- Per entrare, è necessario offrire un libro o un manoscritto di valore\n- Non è permesso combattimento all'interno delle mura\n- I danni ai libri sono considerati sacrilegio\n\n**I Guardiani**: Candlekeep è custodito da monaci eruditi, chierici e maghi dedicati. Nessun libro viene mai distrutto intenzionalmente, anche se nascosto per ragioni di sicurezza.\n\n**Importanza Attuale**: Nel timeline 5e, Candlekeep rimane il centro di conoscenza più affidabile nei Reami, con accesso a tomi di magia antica e storia oscura.",
+      "image_url": null,
+      "related_id": null,
+      "spoiler_campaign": false,
+      "date_added": "2025-12-09"
+    },
+    {
+      "id": 27,
+      "title": "Cormyr: Il Regno Fortificato",
+      "category": "Luoghi",
+      "content": "Cormyr è un regno umano prospero e ben governato sulla Costa della Spada, noto per la sua lealtà, onore e sistema di governo stabile. È uno dei regni più civilizzati e ordinati dei Reami Dimenticati.\n\n**Capitale**: Suzail, una città fortificata e commerciale di grande importanza strategica.\n\n**Governo**: Cormyr è governato da una famiglia reale stabile (attualmente il Re Tethymar Pwyll), assistita da un consiglio di nobili saggi. Il sistema è rigidamente gerarchico ma relativamente giusto e trasparente.\n\n**L'Esercito di Cormyr**:\n- **I Dragoni Viola**: L'élite militare di Cormyr, guerrieri addestrati e magicamente potenti\n- **I Rider di Guerra**: Cavalieri a cavallo delle pianure\n- **I Maghi della Corte**: Potenti maghi legati al trono reale\n\n**Forze Magiche**:\n- **L'Ordine della Stella d'Argento**: Una società segreta di maghi buoni che proteggono Cormyr dall'interno\n- **I Cancellieri Magici**: Maghi ufficiali della corona\n\n**Minacce Contemporanee**: Nonostante la stabilità, Cormyr affronta minacce dai Zhentarim, dai draghi selvaggi e dalle forze del caos che minacciano i suoi confini.\n\n**Cultura**: La gente di Cormyr è nota per la lealtà, il senso dell'onore e il rigoroso codice di giustizia. Il regno è un simbolo di ordine e civiltà nei Reami.",
+      "image_url": null,
+      "related_id": null,
+      "spoiler_campaign": false,
+      "date_added": "2025-12-09"
+    },
+    {
+      "id": 28,
+      "title": "Tiamat: La Regina dei Draghi Malvagi",
+      "category": "Divinità",
+      "content": "Tiamat è la dea dei draghi malvagi, della tirannia e della rapacità. È una divinità primordiale estremamente potente che rappresenta la crudeltà assoluta e la sete di potere infinita. Nel pantheon dei Reami, Tiamat occupa un ruolo centrale nella cosmologia del male.\n\n**Forma di Tiamat**: Tiamat è raffigurata come un drago gigantesco a cinque teste, ciascuna con poteri diversi (fuoco, gelo, fulmine, veleno e fuoco infernale). Nel suo vero aspetto divino è quasi onnipotente.\n\n**Potere di Tiamat**:\n- Controllo assoluto su tutti i draghi malvagi\n- Capacità di creare artefatti di potenza devastante\n- Resurrezione dei draghi morti se lo desiderano i suoi seguaci\n- Influenza sui Piani Inferiori dove risiede\n\n**Culto di Tiamat**: I seguaci di Tiamat includono draghi rossi, draghi blu e i loro servi umani. I culti sono spesso organizzati e ricercano la \"Supremazia della Tirannia\" e l'asservimento di tutte le razze.\n\n**Conflitto con Bahamut**: Bahamut, dio dei draghi buoni, è l'eterna nemico di Tiamat. La loro guerra cosmica si riflette nei conflitti tra draghi buoni e malvagi nei Reami.\n\n**Piani Inferiori**: Tiamat risiede nei Piani Inferiori, dove governa il suo regno infernale e orchestrai complotti per conquistare il Piano Materiale.",
+      "image_url": null,
+      "related_id": null,
+      "spoiler_campaign": false,
+      "date_added": "2025-12-09"
+    },
+    {
+      "id": 29,
+      "title": "Bahamut: Il Drago d'Oro Protettore",
+      "category": "Divinità",
+      "content": "Bahamut è il dio dei draghi buoni, della protezione, dell'onore e della giustizia nei Reami Dimenticati. È una divinità potente e nobile che rappresenta tutto ciò che di buono esiste nel pantheon dei draghi.\n\n**Forma di Bahamut**: Bahamut è raffigurato come un drago d'oro antico di bellezza sovrumana, con occhi che brillano di saggezza infinita. Nel suo vero aspetto divino è una forza della natura.\n\n**Missione di Bahamut**:\n- Proteggere i draghi buoni e i loro insegnamenti\n- Combattere la tirannia e l'ingiustizia\n- Preservare la conoscenza e la saggezza\n- Guidare i mortali verso il bene\n\n**Culto di Bahamut**: I seguaci di Bahamut includono draghi metallici, paladini buoni e chierici dediti alla giustizia. Il culto valorizza l'onore, la lealtà e il sacrificio di sé per il bene maggiore.\n\n**La Torre di Bahamut**: Nel Piano Astrale, Bahamut risiede in una torre d'oro massiccia dove accoglie gli spiriti dei draghi buoni caduti.\n\n**Conflitto con Tiamat**: La guerra tra Bahamut e Tiamat è cosmica e senza fine. Entrambi cercano di influenzare gli eventi nei Reami per prevalere sull'altro.\n\n**Azione Attuale**: Nel timeline 5e recente, Bahamut ha aumentato la sua influenza sui draghi buoni, incoraggiandoli a proteggere il Piano Materiale dalle minacce di Tiamat.",
+      "image_url": null,
+      "related_id": null,
+      "spoiler_campaign": false,
+      "date_added": "2025-12-09"
+    },
+    {
+      "id": 30,
+      "title": "Orcus: Il Principe dei Non-Morti",
+      "category": "Divinità",
+      "content": "Orcus è il signore demoniaco dei non-morti, della pestilenza e della distruzione nei Reami Dimenticati. È una divinità del caos e della malvagità che personifica la corruzione della vita e la ricerca dell'annichilimento.\n\n**Forma di Orcus**: Orcus è raffigurato come un demone gigantesco a forma di orribile creatura deforme, con una grande mazza ossea conosciuta come il Malacca (l'Osso del Comando) come arma principale.\n\n**Poteri di Orcus**:\n- Controllo assoluto su tutti i non-morti dei Piani Inferiori\n- Capacità di creare plagi di non-morti\n- Resurrezione dei non-morti distrutti\n- Trasmissione della malattia e della corruzione\n\n**Culto di Orcus**: I seguaci includono negromanti, cultisti dei non-morti e coloro che desiderano il potere della morte. I suoi chierici sono spesso malvagi e ricercano la morte come mezzo di potere.\n\n**Il Malacca**: La mazza di Orcus è un artefatto di potenza massima che converte la vita in morte e crea onde di corruzione non-mortale.\n\n**Nemico di Velsharoon**: Velsharoon, il dio dei Poteri Negativi, è spesso in conflitto con Orcus per il controllo della nigromanza e dei non-morti.\n\n**Piani Inferiori**: Orcus risiede nel Piano Abisso, dove orchestrai complotti per diffondere morte e pestilenza nel Piano Materiale.",
+      "image_url": null,
+      "related_id": null,
+      "spoiler_campaign": false,
+      "date_added": "2025-12-09"
+    },
+    {
+      "id": 31,
+      "title": "I Githyanki: Guerrieri Psichici Planar",
+      "category": "Razze",
+      "content": "I Githyanki sono una razza di umanoidi psichici originari del Piano Astrale, noti come guerrieri brutali, psionici potenti e servitori della Liche-Regina Vlakith.\n\n**Origine e Storia**: I Githyanki erano originariamente una singola razza (i Gith) esclavizzati dai Mind Flayers (Illithid). Quando si liberarono, si divisero in due razze: i Githyanki e i Githzerai, scegliendone percorsi ideologici diversi.\n\n**Caratteristiche Githyanki**:\n- Guerrieri di eccezionale abilità combattiva\n- Potenti psionici in grado di lanciare magia psichica\n- Legati al culto della Liche-Regina\n- Fierezza e onore guerriero sono valori centrali\n\n**Società Githyanki**:\n- **La Liche-Regina Vlakith**: Immortale tirannica che comanda i Githyanki dal suo astrale fortezza\n- **I Cavalieri**: Guerrieri d'elite montati su draghi psiconici\n- **I Psionici**: Maghi di potenza mentale\n- **Gli Schiavi**: Prigionieri da altri piani\n\n**Tecnologia**: I Githyanki possiedono navi astral uniche e armamenti magicamente potenziati di potenza superiore.\n\n**Nel Piano Materiale**: I Githyanki occasionalmente incursionano nel Piano Materiale per razziare, catturare schiavi o combattere nemici.\n\n**Conflitto con i Githzerai**: I due popoli rimangono nemici mortal i, combattendo periodicamente per il controllo del Piano Astrale.",
+      "image_url": null,
+      "related_id": null,
+      "spoiler_campaign": false,
+      "date_added": "2025-12-09"
+    },
+    {
+      "id": 32,
+      "title": "I Githzerai: Monaci del Caos Ordinato",
+      "category": "Razze",
+      "content": "I Githzerai sono una razza di umanoidi psichici originari del Piano Astrale, caratterizzati da disci psiconici fluttuanti e una filosofia di autocontrollo meditativo.\n\n**Separazione dai Githyanki**: Quando i Gith si liberarono dall'asservimento dei Mind Flayers, i Githzerai scelsero un percorso diverso da quello dei Githyanki, focalizzandosi su libertà individuale e crescita psichica.\n\n**Filosofia Githzerai**:\n- **Autodeterminazione**: Ogni Githzerai è responsabile del proprio cammino\n- **Controllo Psichico**: Attraverso la meditazione e l'allenamento, si raggiunge il potere supremo\n- **Resistenza Gerarchica**: Rifiutano di servire una singola regina o tiranno\n\n**Poteri Psichici**: I Githzerai sono potenti psionici che creano dischi fluttuanti e usano la psicometria per combattere.\n\n**Città Fortezza**: I Githzerai controllano \"Limbo\", un piano di pura magia caotica dove costruirono città invisibili ai nemici.\n\n**Società Libera**: Nonostante il rifiuto della gerarchia Githyanki, i Githzerai hanno una società organizzata dove i monaci più forti guidano i più deboli verso l'illuminazione psichica.\n\n**Nel Piano Materiale**: Meno comuni dei Githyanki, ma occasionalmente si manifestano come alleati contro nemici comuni o per ricerca psichica.\n\n**Nemicizia Permanente**: La guerra tra Githzerai e Githyanki continua da migliaia di anni nel Piano Astrale.",
+      "image_url": null,
+      "related_id": null,
+      "spoiler_campaign": false,
+      "date_added": "2025-12-09"
+    },
+    {
+      "id": 33,
+      "title": "La Spellplague: Il Cataclisma Magico",
+      "category": "Storia",
+      "content": "La Spellplague è un cataclisma massiccio che si verificò nel 1385 DR nei Reami Dimenticati, causato dalla morte della dea Mystra e dalle conseguenze cosmiche di questo evento.\n\n**Cause della Spellplague**:\n- **Morte di Mystra**: Il dio Cyric, influenzato da Shar, uccise Mystra, dea della magia\n- **Collasso Magico**: Senza Mystra a controllare il flusso magico, la magia divenne selvaggia e caotica\n- **Fusione Planare**: Il Piano Materiale si fuse temporaneamente con Abeir, il suo mondo gemello\n\n**Effetti Catastrofici**:\n- **Trasformazioni Geografiche**: Intere nazioni furono cancellate, montuose vennero spostate, mari cambiarono forma\n- **Mutazioni Biologiche**: Creature furono trasformate in forme mostruose\n- **Cambio del Pantheon**: Molti dei morirono o cambiarono di potenza\n- **Perdita di Conoscenza**: Libri e mappe vecchi divennero inaffidabili o inutili\n\n**Timeline Conseguente**:\n- 1385-1450 DR: Il periodo del \"Crepuscolo\" dove il caos regnava\n- La Riunificazione del 1450 DR: Abeir si separò nuovamente dal Piano Materiale\n- Recupero Progressivo: Nel timeline 5e (1490 DR), i Reami stanno ancora recuperando\n\n**Conseguenze Odierne**: Nel periodo 5e, i resti della Spellplague sono ancora visibili: zone di magia selvaggia, creature mutanti e zone irradiate di potenza magica non controllata.\n\n**Resurrezione di Mystra**: Il recente ritorno di Mystra (nel timeline più recente) ha stabilizzato in parte il flusso magico, ma l'impatto rimane profondo.",
+      "image_url": null,
+      "related_id": null,
+      "spoiler_campaign": false,
+      "date_added": "2025-12-09"
+    }
+  ]
+}
